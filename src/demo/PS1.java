@@ -17,6 +17,10 @@ public class PS1 extends PS {
 			
 	//		PS3 ps3 = new PS3(3);
 			System.out.println(ps2.multiplyByThree());
+			System.out.println("good practice");
+			System.out.println("must go on");
+			System.out.println("yes we should");
+			System.out.println("ok lets go");
 
 	}
 	
