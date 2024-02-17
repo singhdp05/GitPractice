@@ -21,6 +21,10 @@ public class PS1 extends PS {
 			System.out.println("must go on");
 			System.out.println("yes we should");
 			System.out.println("ok lets go");
+			System.out.println("Copied from git");
+			System.out.println("Copied from git2");
+			System.out.println("Copied from git3");
+			System.out.println("Copied from git4");
 
 	}
 	
